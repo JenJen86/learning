@@ -1,0 +1,62 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: rgb(6,18,25);
+}
+
+form
+{
+    float: right;
+	padding: 20px;
+    margin: 10px 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow:3px 3px 3px #000000;
+    border-radius: 17px;
+    color: white;
+}
+input
+{
+    width: 90px;
+    height: 20px;
+    padding: 3px;
+    border: 1px solid #444;
+    background: linear-gradient(#333, #222);
+    box-shadow:3px 3px 3px #000000;
+}
+input:hover
+{   
+    animation: glow 800ms ease-out infinite alternate;
+	background: linear-gradient(#333, #222);
+	border-color: greenyellow;
+    outline: none;
+    box-shadow:1px 1px 1px greenyellow;
+}
+a
+{   
+    text-decoration: none;
+    color: yellowgreen;
+    list-style: none;
+}
+li
+{   
+    padding: 0 0 0 25px;
+    margin: 10px 0 0 0;
+    list-style: none;
+}
+#login
+{
+    width: 90px;
+    height: 20px;
+    background: linear-gradient(#333, #222);
+    border: 1px solid #444;
+
+}
+#login:hover
+{
+    animation: glow 800ms ease-out infinite alternate;
+	background: #222922;
+	background: linear-gradient(#333, #222);
+	border-color: greenyellow;
+    outline: none;
+}
