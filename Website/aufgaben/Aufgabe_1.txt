@@ -1,0 +1,8 @@
+- Erstelle eine Datenbank und spiele die Struktur aus der sql/database.sql Datei ein.
+- Ermögliche einen Login über die Daten in der Datenbank. Auf der Hauptseite soll dann "Willkommen USERNAME" stehen.
+
+Referenzen
+- https://www.php-einfach.de/php-tutorial/php-sessions/
+- http://php.net/manual/de/intro.session.php
+- https://www.php-einfach.de/mysql-tutorial/crashkurs-pdo/
+- http://php.net/manual/de/book.pdo.php

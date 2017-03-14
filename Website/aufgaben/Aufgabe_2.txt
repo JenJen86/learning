@@ -1,0 +1,1 @@
+- Implementiere die Seite "register". Der Benutzer soll dort einen Benutzer anlegen können. Die eingegebenen Daten müssen validiert werden.

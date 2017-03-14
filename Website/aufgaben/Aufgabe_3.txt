@@ -1,0 +1,2 @@
+- Wenn sich ein Admin anmeldet, soll in der Navigation der Link "Admin Bereich" erscheinen.
+- Über den Adminbereich sollen neue News erstellt werden können, welche auf der "home" Seite angezeigt werden. Nutze hierfür die Tabelle "news".
